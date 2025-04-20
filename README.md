@@ -4,7 +4,8 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 ## 🚀 Live Demo
 
-https://github.com/user-attachments/assets/8cc2b185-f345-4b3b-b05e-ef8d06d4a8c6
+https://github.com/user-attachments/assets/7b1e610b-7120-4cce-8006-b40b8fb36c76
+
 ---
 
 ## 📌 Features
